@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "title": "Farm lan 1",
+      "description": "hola mundo, como estan todos este mastes por la mañana, espero que podamos compartir muchas experienvias juntos, a lo largo del dia. algo que se puede notar es que hay que practicar dactilografia, solo practicando se puede crear el avito",
+      "image": "images/fingerprint.svg"
+    },
+    {
+      "title": "Farm lan 2",
+      "description": "hola mundo, como estan todos este mastes por la mañana, espero que podamos compartir muchas experienvias juntos, a lo largo del dia. algo que se puede notar es que hay que practicar dactilografia, solo practicando se puede crear el avito",
+      "image": "images/fingerprint.svg"
+    },
+    {
+      "title": "Farm lan 3",
+      "description": "hola mundo, como estan todos este mastes por la mañana, espero que podamos compartir muchas experienvias juntos, a lo largo del dia. algo que se puede notar es que hay que practicar dactilografia, solo practicando se puede crear el avito",
+      "image": "images/fingerprint.svg"
+    }
+  ]
+}
